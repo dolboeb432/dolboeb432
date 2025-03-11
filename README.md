@@ -61,7 +61,7 @@ end)
 
 spawn(function()
     wait(3)
-    U5["Visible"] = false  -- Полностью скрывает надпись без удаления
+    U5["Visible"] = false
 end)
 
 local X1 = "S".."c".."r".."i".."p".."t".." by ".."V".."a".."n".."i".."h".."g".."o".."l".."3".."3".."3"
